@@ -1,2 +1,1 @@
-# 195.133.94.244.sslip.io
-195.133.94.244.sslip.io
+# nocurtains.duckdns.org
